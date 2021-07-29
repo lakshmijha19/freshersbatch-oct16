@@ -1,4 +1,4 @@
-CSS Assignment:
+JS Assignment:
 
 1. Git Basic Commands
 2. Git Branching Master and Branches
