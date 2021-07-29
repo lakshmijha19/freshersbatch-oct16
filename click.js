@@ -1,5 +1,5 @@
 <script>
 function myfunction{
-alert("I am an alert box!");
+alert("I am my javascript git!");
 }
 </script>
